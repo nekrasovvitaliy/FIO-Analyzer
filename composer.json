@@ -1,20 +1,19 @@
 {
-    "name": "mihanentalpo/fio-analyzer",
+    "name": "nekrasovvitaliy/fio-analyzer",
     "type": "library",
     "description": "Analyze user input string, and split it into Russian first name, second name and last name",
     "keywords": ["analyze", "names", "russian", "split"],
     "authors": [
         {
-            "name": "Mikhail Rubin",
-            "email": "mihanentalpo@yandex.ru",
-            "homepage": "https://mihanentalpo.me",
+            "name": "Nekrasov Vitaliy",
+            "email": "nekrasov_vitaliy@list.ru",
             "role": "Developer"
         }
     ],
     "license": "MIT",
     "require": {
-        "php": "^5.3.5 || ^7.0",
-        "mihanentalpo/fast-fuzzy-search": "*"
+        "php": "^5.3.5 || ^7.0 || ^8.1",
+        "nekrasovvitaliy/fast-fuzzy-search": "*"
     },
     "autoload": {
         "psr-4":{
