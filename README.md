@@ -1,8 +1,6 @@
 # FIO-Analyzer
 Анализатор строк, содержащих фамилию, имя, отчество
 
-Подробная статья: https://mihanentalpo.me/2017/03/как-разбить-фио-на-имя-фамилию-отчеств/
-
 
 Установка:
 
@@ -10,7 +8,7 @@
 ```json
 {
     "require": {
-        "mihanentalpo/fio-analyzer": "*"
+        "nekrasovvitaliy/fio-analyzer": "*"
     }
 }
 ```
